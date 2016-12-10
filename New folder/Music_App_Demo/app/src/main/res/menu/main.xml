@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_shuffle"
+        android:icon="@drawable/shuffle"
+        android:orderInCategory="1"
+        android:showAsAction="always"
+        android:title="Shuffle"/>
+    <item
+        android:id="@+id/action_on_shuffle"
+        android:icon="@drawable/shuffle_blue"
+        android:orderInCategory="1"
+        android:showAsAction="always"
+        android:title="Shuffle"/>
+
+    <item
+        android:id="@+id/action_end"
+        android:icon="@drawable/stop"
+        android:orderInCategory="2"
+        android:showAsAction="always"
+        android:title="End"/>
+
+    <item
+        android:id="@+id/action_play"
+        android:icon="@drawable/play_button"
+        android:orderInCategory="1"
+        android:showAsAction="always"
+        android:title="Shuffle"/>
+
+    <item
+        android:id="@+id/action_next"
+        android:icon="@drawable/next"
+        android:orderInCategory="1"
+        android:showAsAction="always"
+        android:title="Shuffle"/>
+
+    <item
+        android:id="@+id/action_back"
+        android:icon="@drawable/back"
+        android:orderInCategory="1"
+        android:showAsAction="always"
+        android:title="Shuffle"/>
+
+    <item
+        android:id="@+id/action_pause"
+        android:icon="@drawable/pause"
+        android:orderInCategory="1"
+        android:showAsAction="always"
+        android:title="Shuffle"/>
+
+</menu>
